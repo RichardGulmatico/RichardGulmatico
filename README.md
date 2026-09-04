@@ -2,97 +2,30 @@
 
 🎓 BSIS (Bachelor of Science in Information Systems) Student
 
-📍 Bacolod City, Negros Occidental, Philippines
+📍 Philippines
 
-I'm an Information Systems student, freelance photographer, and student medic with a passion for building practical solutions through technology. I enjoy turning ideas into functional systems that solve real-world problems, from management systems and web applications to mobile-first projects.
+I'm an aspiring developer interested in building practical systems and turning ideas into working projects.
 
-Currently, I'm focused on expanding my skills in software development, database management, and system analysis while working on academic and personal projects. My goal is to create applications that are not only functional but also simple, efficient, and user-friendly.
+I enjoy learning new technologies, developing applications, and improving my skills through real-world projects.
 
-Beyond coding, you'll usually find me behind a camera capturing moments, reading books, exploring fashion, cycling around the city, or writing stories, poems, and reflections.
-
----
-
-## 🚀 Current Focus
-
-* 📚 Pursuing a degree in Information Systems
-* 💻 Building PHP & MySQL-based web applications
-* 📱 Developing mobile-first software solutions
-* 📊 Learning system analysis, database design, and UI/UX principles
-* 📷 Growing as a freelance photographer
-* ✍️ Writing creative stories and prose
+When I'm not coding, I enjoy photography and writing. ✍️
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
-
-* PHP
-* Java
-* C++
-* JavaScript
-* HTML5
-* CSS3
-* SQL
-
-### Frameworks & Tools
-
-* Bootstrap 5
-* MySQL
-* Git & GitHub
-* Canva
-* VS Code
-* XAMPP
-
-### Currently Learning
-
-* Laravel
-* API Integration
-* Mobile App Development
-* Advanced Database Design
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+### 🌐 Connect with Me
 
-🏠 **Boarding House Management System**
-
-* Tenant Management
-* Room & Bed Management
-* Billing & Payment Monitoring
-* Occupancy Reports
-
-💰 **Expense Monitor Pro**
-
-* Android-first expense tracking application
-* Daily budget monitoring
-* Calendar-based expense management
-* Offline local database storage
-
-🏥 **Clinic Management System**
-
-* Patient Records
-* Staff Management
-* Medical Documentation
-* Administrative Dashboard
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
 
 ---
 
-## 🌱 Goals for 2026
-
-* Build and deploy production-ready systems
-* Strengthen backend development skills
-* Contribute to open-source projects
-* Create a professional development portfolio
-* Combine technology and creativity through software and photography
-
----
-
-## 📫 Connect With Me
-
-* Facebook: Your Facebook Profile
-* GitHub: github.com/yourusername
-
----
-
-> *"Great systems aren't built all at once—they're built one problem, one solution, and one commit at a time."*
+💡 *"Turning ideas into working systems."*
